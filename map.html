@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>SafeRouteGaurd</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<script src="nav.js"></script>
+<link rel="stylesheet" href="nav.css" type="text/css">
+<link href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
+
+
+<style>
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+</style>
+</head>
+<body>
+  
+    <div id="loadingScreen">
+      <script src="loading.js"></script>
+        <link rel="stylesheet" href="loading.css" type="text/css">
+      <img src="srg_logo2.png" alt="Loading...">
+      <p id="loadingText", class="image-text"> "YOUR SAFETY, OUR PRIORITY" </p>
+      
+    </div>
+   
+
+<div id="map"></div>
+
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1IjoiYXl1c2gtMjIiLCJhIjoiY2x1ZWZpcjVyMGM1OTJrb2V2YmUwaDFpcyJ9.Cx91z1zFcTK5FQ-n9h-Kpg';
+    const map = new mapboxgl.Map({
+        container: 'map',
+        
+        style: 'mapbox://styles/ayush-22/cluff4b4t00a301ntgo3hb98z/draft',
+        center: [78.306985, 22.763445],
+        zoom: 3,
+    });
+
+    map.addControl(
+        new MapboxDirections({
+            accessToken: mapboxgl.accessToken
+        }),
+        'top-left'
+    );
+
+    /* 
+Add an event listener that runs
+  when a user clicks on the map element.
+*/
+map.on('click', (event) => {
+  // If the user clicked on one of your markers, get its information.
+  const features = map.queryRenderedFeatures(event.point, {
+    layers: ['chicago-parks']  });
+  if (!features.length) {
+    return;
+  }
+  const feature = features[0];
+
+/* 
+    Create a popup, specify its options 
+    and properties, and add it to the map.
+  */
+  const popup = new mapboxgl.Popup({ offset: [0, -15] })
+  .setLngLat(feature.geometry.coordinates)
+  .setHTML(
+    `<h3>${feature.properties.title}</h3><p>${feature.properties.description}</p>`
+  )
+  .addTo(map);S});
+
+</script>
+
+</body>
+</html>

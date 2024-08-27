@@ -1,0 +1,58 @@
+X (Latitude),Y (Longitude),District_Name,Name_of_Police_Station,NH/ SH/ Other Road,Location,Starting From (KM),Ending (KM),No. of Accident,No. of Fatalities,cluster,Accident Severity
+18.5042067237923,73.9213991300327,Pune City,Hadapsar,NH-65,Vaidyawadi Chowk,00 mtr.,500 mtr.,15,3,1,1.0
+18.4754023343567,73.9584903165835,Pune City,Hadapsar,NH-65,Fursungi Fata,00 mtr.,500 mtr.,9,4,1,1.0
+18.4663908268974,73.9788826214219,Pune City,Hadapsar,NH-965,"Fursungi Railway Bridge,Saswad Road",00 mtr.,500 mtr.,11,5,1,1.0
+18.51301611669,73.9333655539924,Pune City,Hadapsar,NH-04,IBM Company Saswad Road,00 mtr.,500 mtr.,7,1,1,1.0
+18.43308651516,73.8380140088519,Pune City,Bharti Vidhyapith Road,NH-04,Dari Pull,00 mtr.,500 mtr.,11,8,1,1.0
+18.4854317893629,73.7996899223449,Pune City,Warje,NH-04,Mai Mangeshkar Hospital,100 mtr.,500 mtr.,14,12,0,2.0
+18.4750226365108,73.8094311517169,Pune City,Warje,NH-04,Mutha River Bridge,50 mtr,100 mtr.,7,7,1,1.0
+18.5030947414534,73.7928891223454,Pune City,Warje,NH-04,Dukkar Khind,100 mtr.,500 mtr.,9,5,1,1.0
+18.4610837800249,73.8222076665247,Pune City,Sinhgadh,NH-04,Navale Bridge,00 mtr.,500 mtr.,30,17,2,3.0
+18.4488955053219,73.8332810969052,Pune City,Sinhgadh,NH-04,Bhumkar Pull,00 mtr.,500 mtr.,15,9,0,2.0
+18.4480628144428,73.8585010267384,Pune City,Bharti Vidhyapith,NH-04,Katraj Chowk Satara Road,00 mtr.,500 mtr.,16,8,0,2.0
+18.433116804268,73.8378637235449,Pune City,Bharti Vidhyapith,NH-04,Dari Pool,00 mtr.,500 mtr.,10,8,1,1.0
+18.4075729771885,73.847571803198,Pune City,Bharti Vidhyapith,NH-04,New Katraj Tunnel,00 mtr.,500 mtr.,7,3,1,1.0
+18.6364039718946,73.7429594898524,Pimpri Chinchwad,Hinjewadi P.S,NH-04,Punawale(Mumbai-Bangalore Highway),300 mtr.,250 mtr.,6,5,1,1.0
+18.586748836763,73.7592532107079,Pimpri Chinchwad,Hinjewadi P.S,NH-04,Wakad Bridge (Mumbai-Bangalore Highway),200 mtr.,300 mtr.,42,25,2,3.0
+18.5158363122322,73.7691766447913,Pimpri Chinchwad,Hinjewadi P.S,NH-04,Bavdhan (Mumbai-Bangalore Highway),300 mtr.,350 mtr.,49,33,2,3.0
+18.7346262399264,73.6717722736042,Pimpri Chinchwad,Talegaon Dabhade,NH-548D,Talegaon Railway Station,200 mtr.,200 mtr.,5,5,1,1.0
+18.6686247072672,73.7278068291051,Pimpri Chinchwad,DehuRoad P.S,NH-04,Shinde Pump,500 mtr. ,450 mtr.,5,3,1,1.0
+18.6874318702708,73.7200275959568,Pimpri Chinchwad,DehuRoad P.S,NH-04,Central Chowk,400 mtr.,500 mtr.,13,13,0,2.0
+18.7114983680714,73.700099582029,Pimpri Chinchwad,DehuRoad P.S,NH-04,Ladkat Pump,300 mtr.,400 mtr.,13,13,0,2.0
+18.7276696928417,74.0239896018539,Pimpri Chinchwad,Chakan P.S,NH-548D,Sabalewadi,200 mtr.,450 mtr.,8,3,1,1.0
+18.7409216885941,73.7791155515171,Pimpri Chinchwad,Chakan P.S,NH-548D,Khalumbre,150 mtr.,300 mtr.,7,4,1,1.0
+18.6963620496809,73.8478189107104,Pimpri Chinchwad,Chakan P.S,NH-60,Chimbli Phata,200 mtr.,300 mtr.,12,7,1,1.0
+18.7152043496888,73.8482832879156,Pimpri Chinchwad,Chakan P.S,NH-60,Kuruli Phata,100 mtr.,350 mtr.,21,10,0,2.0
+18.7557898011944,73.8591798088593,Pimpri Chinchwad,Chakan P.S,NH-50,Chakan- Talegaon Chowk,150 mtr.,500 mtr.,27,11,0,2.0
+19.1233457665938,73.9764043386224,Pune Rural,Narayangaon,NH-60,Sabhapati Corner Narayangaon,,,24,14,0,2.0
+19.1918071291539,74.1058150084846,Pune Rural,Narayangaon,NH-60,"Reliance Petrol Pump, Warulwadi",,,13,9,0,2.0
+19.1447466442995,74.0269030062151,Pune Rural,Narayangaon,NH-60 ,14 Number Kandali ,,,20,15,0,2.0
+18.7545233111149,73.6742708903468,Pune Rural,Vadmaval,NH-04,Vadgaon Fata,,,23,16,0,2.0
+18.7670256652054,73.634650156878,Pune Rural,Vadmaval,NH-04,Mali Nagar,,,8,4,1,1.0
+18.7460064683807,73.7162132607732,Pune Rural,Vadmaval,NH-04,Kahne Fata ,,,10,4,1,1.0
+18.7989270618218,73.8490768462961,Pune Rural,Jejuri,NH-965,Pimpri Khurd,,,25,24,2,3.0
+19.6000992809726,74.1960942165903,Pune Rural,Otur,NH-61,Dhamale Mala,,,6,6,1,1.0
+18.5420802757503,74.0248903497956,Pune Rural,Otur,NH-61,Kolavadi,,,20,13,0,2.0
+18.560135686751,73.9158145781663,Pune City,Vimantal,SH-27,Viman Nagar Chowk,,,6,2,1,1.0
+18.5598171450528,73.9407142539029,Pune City,Vimantal,SH-27,Kharadi Darga Chowk,,,6,2,1,1.0
+18.5548194927815,73.9050613032853,Pune City,Yerwada,SH-27,Ramwadi Jakat Naka,,,8,3,1,1.0
+18.5630235929916,73.9286547225303,Pune City,Vimantal,SH-27,Tata Guard Room,00 mtr.,500 mtr.,6,3,1,1.0
+18.562161696297,73.9386054903578,Pune City,Chandan Nagar,SH-27,Kharadi Bypass Chowk,00 mtr.,300 mtr.,13,8,0,2.0
+18.5697315176523,73.95023647202,Pune City,Vimantal,SH-27,Kharadi Jakat Naka,00 mtr.,200 mtr.,7,5,1,1.0
+19.9396055344944,79.3085495311857,Pune City,Koregaon Park,Other Rd.,Hemant Karkare Chowk,,,5,4,1,1.0
+18.5245923026426,73.8787157887077,Pune City,Bund Garden,Other Rd.,Council Hall Chowk,,,5,0,1,1.0
+18.5330258907952,73.9329901663051,Pune City,Mundhawa,Other Rd.,Mundhawa Chowk,,,9,2,1,1.0
+18.5284869142319,73.9061287222372,Pune City,Mundhawa,Other Rd.,B T Kawade Road Railway Bridge,,,8,3,1,1.0
+18.452290316056,73.8911062338747,Pune City,Kondhwa,Other Rd.,Khadi Machine Chowk,00 mtr.,500 mtr.,7,1,1,1.0
+18.545169480154,73.9358406036728,Pune City,Chandan Nagar,Other Rd.,Thite Wasti HP Petrol Pump,00 mtr.,300 mtr.,5,4,1,1.0
+18.539835875844,73.9345457677355,Pune City,Chandan Nagar,Other Rd.,Sainath Nagar Chowk,00 mtr.,500 mtr.,5,2,1,1.0
+18.5018603410697,73.9127227690475,Pune City,Vimantal,Other Rd.,Pathanshaha Baba Dargah,00 mtr.,500 mtr.,6,4,1,1.0
+18.5293372818577,73.8529210339689,Pune City,Shivaji Nagar,Other Rd.,Sancheti Chowk,100 mtr.,500 mtr.,5,2,1,1.0
+18.5444705405158,73.877729154635,Pune City,Yerwada,Other Rd.,Sandal Baba Sangam Wadi BRT,,,7,1,1,1.0
+18.5361922816559,73.9338143000455,Pune City,Mundhawa,Other Rd.,Mundhawa Railway Bridge,00 mtr.,500 mtr.,19,8,0,2.0
+18.5507509341848,73.9371634205436,Pune City,Vimantal,Other Rd.,Reliance Mart,00 mtr.,300 mtr.,5,3,1,1.0
+18.5754341968256,73.8993414913579,Pune City,Vimantal,Other Rd.,509 Chowk,00 mtr.,200 mtr.,7,4,1,1.0
+18.6642742356228,73.7726678458199,Pimpri Chinchwad,Nigdi P.S,Other Rd.,Bhakti- Shakti Chowk,400 mtr.,350 mtr.,6,3,1,1.0
+18.649621339993,73.8306072814577,Pimpri Chinchwad,Bhosari P.S,Other Rd.,Borade Vasti,250 mtr.,400 mtr.,8,4,1,1.0
+18.438295494084,73.7723798631662,Pune Rural,"Shivaji Nagar, Haveli",Other Rd.,Khadakwasla,,,30,22,2,3.0
+18.0766028297649,74.8585298646625,Pune Rural,Walchand Nagar,Other Rd.,54 Phata to Gotondi,,,7,3,1,1.0
